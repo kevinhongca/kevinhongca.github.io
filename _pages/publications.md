@@ -3,7 +3,7 @@ layout: page
 permalink: /projects/
 title: projects
 description: Projects are in reversed chronological order.
-nav: true
+nav: false
 nav_order: 2
 ---
 
