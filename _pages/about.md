@@ -28,3 +28,5 @@ latest_posts:
 ---
 
 My name is Kevin Hong, and I am a fourth year undergrad student at UCLA. 
+
+My portfolio showcases my research and personal projects, with links to code and videos when available.
