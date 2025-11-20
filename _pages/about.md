@@ -29,4 +29,4 @@ latest_posts:
 
 Hi! I am a fourth year computer engineering undergrad at UCLA.
 
-My portfolio showcases my research and personal projects, with links to code and videos when available.
+My portfolio showcases my research and personal projects, with links to articles, code, and videos when available.
