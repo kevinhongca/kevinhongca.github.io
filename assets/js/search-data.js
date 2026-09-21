@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-projects",
           title: "projects",
-          description: "Projects are in reversed chronological order.",
+          description: "Projects, including publications, are in reverse chronological order.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
