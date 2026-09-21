@@ -2,11 +2,11 @@
 layout: about
 title: portfolio
 permalink: /
-subtitle: 
+subtitle: MS CS @ Stanford
 
 profile:
   align: right
-  image: 
+  image: profile_pic.jpeg
   image_circular: false # crops the image to make it circular
 #  more_info: >
 #    <p>555 your office number</p>
@@ -27,6 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I am a fourth year computer engineering undergrad at UCLA.
+While I was an undergraduate at UCLA, I conducted research in the Interactive Systems Lab (Prof. Gregory Pottie) and Security & Privacy Lab (Prof. Yuan Tian), exploring how AI can personalize education and deepen our understanding of human behavior. I also served as a peer tutor and was extensively involved in K–12 educational outreach..
 
-My portfolio showcases my research and personal projects, with links to articles, code, and videos when available.
+Outside university, I interned at the Special Technologies Lab, a federal research facility, where I developed embedded software for research applications.
