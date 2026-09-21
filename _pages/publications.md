@@ -2,7 +2,7 @@
 layout: page
 permalink: /projects/
 title: projects
-description: Projects are in reversed chronological order.
+description: Projects, including publications, are in reverse chronological order.
 nav: true
 nav_order: 2
 ---

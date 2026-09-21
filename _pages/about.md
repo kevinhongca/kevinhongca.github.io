@@ -13,8 +13,8 @@ profile:
 #    <p>123 your address street</p>
 #    <p>Your City, State 12345</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
 
 announcements:
   enabled: false # includes a list of news items
@@ -27,6 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-While I was an undergraduate at UCLA, I conducted research in the Interactive Systems Lab (Prof. Gregory Pottie) and Security & Privacy Lab (Prof. Yuan Tian), exploring how AI can personalize education and deepen our understanding of human behavior. I also served as a peer tutor and was extensively involved in K–12 educational outreach..
+While I was an undergraduate at UCLA, I conducted research in the Interactive Systems Lab ([Prof. Gregory Pottie](https://samueli.ucla.edu/gregory-pottie/)) and Security & Privacy Lab ([Prof. Yuan Tian](https://www.ytian.info/)), exploring how AI can personalize education and deepen our understanding of human behavior. I also served as a peer tutor and was extensively involved in K–12 educational outreach. Upon graduation, I was one of two students across the ECE department to receive the Outstanding Bachelor of Science Award, and I was fortunate to have my undergraduate education fully supported by merit scholarships from UCLA and Northrop Grumman.
 
-Outside university, I interned at the Special Technologies Lab, a federal research facility, where I developed embedded software for research applications.
+Outside of university, I interned at the [Special Technologies Lab](https://nnss.gov/mission/global-security-programs/special-technologies-laboratory/), a federal research facility, where I developed embedded software for research applications.
+
+The best way to contact me is via email at [kbhong@stanford.edu](mailto:kbhong@stanford.edu).
