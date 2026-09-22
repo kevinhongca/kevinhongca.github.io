@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-While I was an undergraduate at UCLA, I conducted research in the Interactive Systems Lab ([Prof. Gregory Pottie](https://samueli.ucla.edu/gregory-pottie/)) and Security & Privacy Lab ([Prof. Yuan Tian](https://www.ytian.info/)), exploring how AI can personalize education and deepen our understanding of human behavior. I also served as a peer tutor and was extensively involved in K–12 educational outreach. Upon graduation, I was one of two students across the ECE department to receive the Outstanding Bachelor of Science Award, and I was fortunate to have my undergraduate education fully supported by merit scholarships from UCLA and Northrop Grumman.
+While I was an undergraduate at UCLA, I conducted research in the Interactive Systems Lab ([Prof. Gregory Pottie](https://samueli.ucla.edu/gregory-pottie/)) and Security & Privacy Lab ([Prof. Yuan Tian](https://www.ytian.info/)), exploring how AI can personalize education and deepen our understanding of human behavior. I also served as a peer tutor and was involved in K–12 educational outreach. Upon graduation, I was one of two students across the ECE department to receive the Outstanding Bachelor of Science Award, and I was fortunate to have my undergraduate education fully supported by merit scholarships from UCLA and Northrop Grumman.
 
 Outside of university, I interned at the [Special Technologies Lab](https://nnss.gov/mission/global-security-programs/special-technologies-laboratory/), a federal research facility, where I developed embedded software for research applications.
 
