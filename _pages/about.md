@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: MS CS @ Stanford
+subtitle: CS @ Stanford
 
 profile:
   align: right
